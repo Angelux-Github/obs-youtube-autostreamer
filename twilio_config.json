@@ -1,0 +1,6 @@
+{
+    "your_account_sid":"[your_account_sid]",
+    "auth_token":"[auth_token]",
+    "twilio_sender_number":"[twilio_sender_number]",
+    "receipient_number":"[receipient_number]"
+}   

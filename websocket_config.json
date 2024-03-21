@@ -1,0 +1,5 @@
+{
+    "ip_address": "[your_obs_device_ip_address]",
+    "port": 4455,
+    "password": "[your_generated_obs_password]"
+}
