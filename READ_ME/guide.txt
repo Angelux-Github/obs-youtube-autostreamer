@@ -1,0 +1,13 @@
+The "obs-cmd.exe" file has to be visible inside in PATH in order for this script to be able to execute it.
+Therefore move the file to your C:Drive or which ever is your main drive, into the Windows folder, into the System32 folder.
+
+Please note that in order for this to work, you must have a obs profile that doesn't log-in to youtube (Recommened Option) but instead 
+you are supposed to use your stream key, this is in order to avoid the "Manage Broadcast" pop up from appearing the nulls any automation.
+
+NOTE:
+You have to run the file atleast once inside the folder in order for it to work properly.
+The original creators of this exe file are:
+
+
+github repo: https://github.com/grigio/obs-cmd/tree/v0.17.4
+installation_latest_release_page: https://github.com/grigio/obs-cmd/releases/tag/v0.17.4
