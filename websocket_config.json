@@ -1,5 +1,5 @@
 {
-    "ip_address": "[your_obs_device_ip_address]",
+    "ip_address": "192.168.0.13",
     "port": 4455,
-    "password": "[your_generated_obs_password]"
+    "password": "DKBY3SI58o4JdpWK"
 }

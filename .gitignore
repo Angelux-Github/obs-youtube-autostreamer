@@ -1,1 +1,3 @@
 venv/
+websocket_config.json
+credentials.json
