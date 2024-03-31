@@ -1,3 +1,5 @@
 venv/
+user_data/
+trash/
 websocket_config.json
 credentials.json

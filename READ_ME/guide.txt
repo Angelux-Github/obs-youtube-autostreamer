@@ -6,8 +6,9 @@ you are supposed to use your stream key, this is in order to avoid the "Manage B
 
 NOTE:
 You have to run the file atleast once inside the folder in order for it to work properly.
-The original creators of this exe file are:
+The original creators of this exe file is:
 
+grigio
 
 github repo: https://github.com/grigio/obs-cmd/tree/v0.17.4
 installation_latest_release_page: https://github.com/grigio/obs-cmd/releases/tag/v0.17.4
